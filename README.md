@@ -1,2 +1,2 @@
-# ethereum-rpcjson
-Code for my medium article on handling the Ethereum Blockchain using the RPC API
+# Interacting with Ethereum using the RPC JSON API
+Code demonstrating how to handle the Ethereum Blockchain using its RPC API
